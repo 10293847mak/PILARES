@@ -1,0 +1,217 @@
+<mxfile host="app.diagrams.net" modified="2023-09-09T02:14:04.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="7D8a_eOULOCNcx0DUHEx" version="21.7.2" type="device">
+  <diagram name="Página-1" id="YFDQYp9XhZq4vRd3nopv">
+    <mxGraphModel dx="3340" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2800" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="Sfzmxh3t3_z_grtpd5_m-1" target="Sfzmxh3t3_z_grtpd5_m-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="Sfzmxh3t3_z_grtpd5_m-1" target="Sfzmxh3t3_z_grtpd5_m-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1" source="Sfzmxh3t3_z_grtpd5_m-1" target="Sfzmxh3t3_z_grtpd5_m-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-1" value="Gestores de base de datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1304.7" y="410" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="Sfzmxh3t3_z_grtpd5_m-2" target="Sfzmxh3t3_z_grtpd5_m-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="229.94117647058806" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="Sfzmxh3t3_z_grtpd5_m-2" target="Sfzmxh3t3_z_grtpd5_m-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="509.9999999999998" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="Sfzmxh3t3_z_grtpd5_m-2" target="Sfzmxh3t3_z_grtpd5_m-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="789.9411764705883" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-2" value="MySQL" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#000000;strokeColor=#006EAF;labelBorderColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="Sfzmxh3t3_z_grtpd5_m-4" target="Sfzmxh3t3_z_grtpd5_m-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2388.7" y="540" as="sourcePoint" />
+            <mxPoint x="2459.7" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="Sfzmxh3t3_z_grtpd5_m-4" target="Sfzmxh3t3_z_grtpd5_m-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2279.7" y="570" as="sourcePoint" />
+            <mxPoint x="2279.7" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="Sfzmxh3t3_z_grtpd5_m-4" target="Sfzmxh3t3_z_grtpd5_m-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2268.7" y="540" as="sourcePoint" />
+            <mxPoint x="2099.7" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-4" value="PostgreSQL" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="2219.7" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1" source="Sfzmxh3t3_z_grtpd5_m-6" target="Sfzmxh3t3_z_grtpd5_m-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1208.7" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1" source="Sfzmxh3t3_z_grtpd5_m-6" target="Sfzmxh3t3_z_grtpd5_m-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1398.7" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1" source="Sfzmxh3t3_z_grtpd5_m-6" target="Sfzmxh3t3_z_grtpd5_m-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1588.7" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-6" value="&lt;b&gt;SQL Server&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="1339.7" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-27" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Características principales&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="100" y="680" width="260" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-28" value="MySQL es un sistema de gestión de bases de datos relacional de código abierto." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-27">
+          <mxGeometry y="30" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-29" value="Es conocido por su velocidad y rendimiento en aplicaciones web y de servidor." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-27">
+          <mxGeometry y="80" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-30" value="Admite múltiples plataformas, incluyendo Windows, Linux y macOS." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-27">
+          <mxGeometry y="120" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-31" value="Ofrece una variedad de motores de almacenamiento, siendo el más común InnoDB." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-27">
+          <mxGeometry y="160" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-32" value="Compatible con lenguaje SQL estándar y diversas interfaces de programación." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-27">
+          <mxGeometry y="210" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-33" value="&lt;font color=&quot;#050505&quot;&gt;&lt;b&gt;Ventajas&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="380" y="680" width="260" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-34" value="Fácil de instalar y configurar." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-33">
+          <mxGeometry y="30" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-35" value="Amplia comunidad de usuarios y desarrolladores." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-33">
+          <mxGeometry y="80" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-36" value="Buena velocidad y rendimiento para aplicaciones de lectura intensiva." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-33">
+          <mxGeometry y="130" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-37" value="Soporte para transacciones ACID (Atomicidad, Consistencia, Aislamiento y Durabilidad)." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-33">
+          <mxGeometry y="180" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-39" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Desventajas&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="660" y="680" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-40" value="Puede tener limitaciones en aplicaciones con cargas de trabajo muy intensivas de escritura." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-39">
+          <mxGeometry y="30" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-41" value="Limitaciones en capacidades de escalabilidad vertical para cargas de trabajo muy grandes." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-39">
+          <mxGeometry y="80" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-42" value="Gestión de claves foráneas y restricciones de integridad referencial no tan avanzada como otros sistemas." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-39">
+          <mxGeometry y="130" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-48" value="&lt;b&gt;Características principales&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="989" y="680" width="260" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-49" value="SQL Server es un sistema de gestión de bases de datos desarrollado por Microsoft." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-48">
+          <mxGeometry y="30" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-50" value="Ofrece ediciones tanto gratuitas como comerciales." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-48">
+          <mxGeometry y="80" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-51" value="Proporciona herramientas de administración y seguridad avanzadas." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-48">
+          <mxGeometry y="130" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-52" value="Compatible con una amplia gama de aplicaciones empresariales." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-48">
+          <mxGeometry y="180" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-53" value="Integra bien con otras tecnologías de Microsoft, como .NET." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-48">
+          <mxGeometry y="230" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-54" value="&lt;b&gt;Ventajas&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="1269" y="680" width="260" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-55" value="Fuerte en seguridad y cumplimiento de normativas." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-54">
+          <mxGeometry y="30" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-56" value="Herramientas de administración avanzadas, como SQL Server Management Studio (SSMS)." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-54">
+          <mxGeometry y="80" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-57" value="Alta disponibilidad y capacidades de replicación." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-54">
+          <mxGeometry y="130" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-58" value="Soporte para procedimientos almacenados y funciones definidas por el usuario." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-54">
+          <mxGeometry y="180" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-60" value="&lt;b&gt;Desventajas&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="1549" y="680" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-61" value="Costos asociados con licencias en ediciones comerciales." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-60">
+          <mxGeometry y="30" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-62" value="Requiere servidores Windows, lo que limita la flexibilidad de la plataforma." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-60">
+          <mxGeometry y="80" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-63" value="Rendimiento puede variar dependiendo de la configuración y la edición utilizada." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-60">
+          <mxGeometry y="130" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-66" value="&lt;b&gt;Características principales&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="680" width="260" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-67" value="PostgreSQL es un sistema de gestión de bases de datos relacional de código abierto." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-66">
+          <mxGeometry y="30" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-68" value="Conocido por su robustez, escalabilidad y capacidad de personalización." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-66">
+          <mxGeometry y="80" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-69" value="Admite una amplia gama de tipos de datos y extensiones." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-66">
+          <mxGeometry y="130" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-70" value="Soporte para transacciones ACID." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-66">
+          <mxGeometry y="180" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-71" value="Compatibilidad con SQL estándar." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-66">
+          <mxGeometry y="230" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-72" value="Ventajas" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="680" width="260" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-73" value="Altamente escalable y adecuado para aplicaciones de alto rendimiento." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-72">
+          <mxGeometry y="30" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-74" value="Soporte avanzado para consultas complejas y funciones definidas por el usuario." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-72">
+          <mxGeometry y="80" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-75" value="Amplia comunidad de usuarios y desarrollo activo." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-72">
+          <mxGeometry y="130" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-76" value="Licencia de código abierto, lo que reduce los costos de licencia." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-72">
+          <mxGeometry y="180" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-78" value="Desventajas" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="680" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-79" value="Puede tener una curva de aprendizaje más pronunciada en comparación con sistemas más simples." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-78">
+          <mxGeometry y="30" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-80" value="Menos herramientas de administración gráfica disponibles en comparación con MySQL y SQL Server." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-78">
+          <mxGeometry y="80" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-81" value="En comparación con MySQL, puede ser menos adecuado para aplicaciones web ligeras debido a un mayor consumo de recursos." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Sfzmxh3t3_z_grtpd5_m-78">
+          <mxGeometry y="130" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Sfzmxh3t3_z_grtpd5_m-84" value="&lt;h1 style=&quot;font-size: 49px;&quot;&gt;Base de Datos&lt;/h1&gt;&lt;div&gt;Entregable 5 Gestor de Base de Datos&lt;/div&gt;&lt;div&gt;Alejandro Adrián Coy Vázquez&lt;/div&gt;&lt;div&gt;3016ZL02&lt;/div&gt;&lt;div&gt;08/09/2023&lt;/div&gt;&lt;p style=&quot;font-size: 49px;&quot;&gt;&lt;br style=&quot;font-size: 49px;&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=49;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="1150" height="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
