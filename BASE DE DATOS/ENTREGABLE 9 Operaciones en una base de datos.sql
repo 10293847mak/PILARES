@@ -57,7 +57,7 @@ productos.Modelo AS PRODUCTO
 FROM productos INNER JOIN fabricante ON productos.FK_Fabricante = fabricante.PK_Fabricante
 WHERE fabricante.Marca = 'Lenovo' AND productos.Precio = (
         SELECT MAX(p.Precio) 
-        FROM productos p
-        INNER JOIN fabricante f ON p.FK_Fabricante = f.PK_Fabricante WHERE f.Marca = 'Lenovo'
+        FROM productos
+        INNER JOIN fabricante ON productos.FK_Fabricante = fabricante.PK_Fabricante WHERE fabrucante.Marca = 'Lenovo'
 );
 
