@@ -6,7 +6,7 @@ public class DiaDeLaSemana {
         int dia;
 
         System.out.println("Introduce un número del 1 al 7 para conocer el día de la semana:");
-        dia = semana.nextInt();
+        dia = .nextInt();
 
         switch(dia) {
             case 1:
