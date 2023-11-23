@@ -4,6 +4,7 @@ public class Arreglo {
 
         for(int i = 0; i < numeros.length; i++){
             System.out.println("El arreglo en la posición " + i + "tiene el número " + numeros[i]);
+            System.out.println("ENTREGABLE 6");
         }
     }
 }
