@@ -34,7 +34,7 @@ public class RecibeMascota {
 
         for (int i = 1; i <= num_perros; i++){
             System.out.println("Agrega el nombre del Perro:");
-            String perroNombre = scanner.nextLine();
+            String perroNombre = scanner.next();
 
             System.out.println("Agrega la edad del perro:");
             int perroEdad = scanner.nextInt();
@@ -55,8 +55,12 @@ public class RecibeMascota {
 
          scanner.close();
          for (Perros perro : listaPerros){
+            System.out.println("-----------------------------------------------------------------------------");
             System.out.println(perro.Cadena());
-         }         
+            System.out.println("-----------------------------------------------------------------------------");
+         }   
+         
+         System.out.println("El número de perros es: " + num_perros);
     }
 
 
