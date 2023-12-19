@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class RecibeMascota {
 
-    class Perros{
+    static class Perros{
             private String nombre;
             private int edad;
             private String raza;
@@ -32,12 +32,13 @@ public class RecibeMascota {
         System.out.println("Ingresa el numero de perrors a registrar");
         num_perros = scanner.nextInt();
 
-        for (int i = 0; i <= num_perros; i++){
+        for (int i = 1; i <= num_perros; i++){
             System.out.println("Agrega el nombre del Perro:");
             String perroNombre = scanner.nextLine();
 
             System.out.println("Agrega la edad del perro:");
             int perroEdad = scanner.nextInt();
+            scanner.nextLine();
 
             System.out.println("Agrega raza del Perro:");
             String perroRaza = scanner.nextLine();
@@ -53,6 +54,9 @@ public class RecibeMascota {
         }
 
          scanner.close();
+         for (Perros perro : listaPerros){
+            System.out.println(perro.Cadena());
+         }         
     }
 
 
