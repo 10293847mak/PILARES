@@ -60,7 +60,7 @@ public class RecibeMascota {
             System.out.println("-----------------------------------------------------------------------------");
          }   
          
-         System.out.println("El número de perros es: " + num_perros);
+         System.out.println(" Perros actuales en la estética: " + num_perros);
     }
 
 
